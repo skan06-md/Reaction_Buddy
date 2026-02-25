@@ -16,3 +16,4 @@ Emotion-conditioned response generation
 Fully local LLM inference (except STT)
 Modular multi-model pipeline
 
+side note: both the contributors are my accounts
